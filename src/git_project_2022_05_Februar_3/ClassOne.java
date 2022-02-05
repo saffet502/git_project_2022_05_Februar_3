@@ -6,6 +6,8 @@ public class ClassOne {
 	
 		System.out.println("local master branch");
 		System.out.println("Zweite Commit von Local Master");
+		System.out.println("Dritte Commit von Local Master");
+		System.out.println("Dritte Commit von Local Master");
 
 	}
 
