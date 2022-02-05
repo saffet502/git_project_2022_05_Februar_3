@@ -13,6 +13,7 @@ public class ClassOne {
 		
 		System.out.println("remote master branch");
 		System.out.println("remote Master branch 1. Commit");
+		System.out.println("von local feature branch 1. Commit");
 
 
 	}
